@@ -1,6 +1,6 @@
 # Simple POS App
 
-Before you start make sure you Node.js and React.js installed in your system unit.
+Before you start, make sure you have Node.js and React.js installed in your system unit.
 You can follow these installation guides:
 - [Node.js installation](https://docs.npmjs.com/getting-started/installing-node)
 - [React.js installation](https://facebook.github.io/react/docs/installation.html)
